@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.header-zara{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    box-shadow: -1px -1px 5px -1px black;
+    
+    
+
+}
+
+.zara-logo img {
+    
+    width: 300px;
+}
+
+.zara-navigation{
+    display: flex;
+    margin-top: 40px;
+    width: ;
+    
+}
+
+
